@@ -89,7 +89,7 @@ The result is a fast, responsive, and reliable web tool for tracking spending on
 
 **Mujtaba Farooqui**
 
-* 💼 [LinkedIn]([(https://www.linkedin.com/in/mujtaba-farooqui-a06044281/)])
+* 💼 [LinkedIn](https://www.linkedin.com/in/mujtaba-farooqui-a06044281/)
 * 📧 [Email](mailto:mujtabafarooqui72@gmail.comlin)
 * 🐙 [GitHub](https://github.com/MujtabaFarooqui7)
 

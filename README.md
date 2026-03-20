@@ -78,3 +78,16 @@ It couldn't be easier:
 
 ```bash
 git clone [https://github.com/MujtabaFarooqui7/expense-tracker.git](https://github.com/MujtabaFarooqui7/expense-tracker.git)
+
+<h2><a class="anchor" id="results--conclusion"></a>Results & Conclusion</h2>
+
+The result is a fast, responsive, and reliable web tool for tracking spending on the fly. It successfully achieves the goal of providing a frictionless user experience while demonstrating core front-end concepts like state management, DOM manipulation, and local storage integration.
+
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
+Mujtaba Farooqui
+
+Feel free to reach out or check out my other projects on GitHub!
+
+
+Would you like me to help you brainstorm some extra features you could add to the app later, like a budget limit alert or filtering by categories?
